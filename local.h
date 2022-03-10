@@ -1,9 +1,6 @@
 #ifndef _LOCAL_H_
 #define _LOCAL_H_
 
-// 1180414 Yazan Daibes
-// 1181557 Kareen Karam
-// 1180424 Omar Qattosh
 
 #include <stdio.h>
 #include <stdlib.h>
